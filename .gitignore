@@ -1,0 +1,7 @@
+/.gradle/
+/.idea/
+/gradle/
+/logs/
+/build/
+/.build/
+/target/
